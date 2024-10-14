@@ -1,0 +1,267 @@
+.toparea{
+    background:white;
+}
+.box{
+    background:white;
+    border-top:solid 25px blue ;
+    border-left:solid 70px blue  ;
+    border-right:solid 70px blue ;
+    border-bottom:solid 25px blue ;
+}
+.box a{
+    color: #222222;
+    text-decoration: none;
+    text-align: center;
+}
+.main img{
+    width: 1920px;
+    height: 550px;
+}
+.main h1{
+    font-weight: bold;
+    width:auto;
+    margin:-350px 0 0 100px;
+    color:white;
+    z-index:1000;
+}
+.main p{
+    width: 600px;
+    margin:-250px 0 0 -510px;
+    color:white;
+    z-index:1000;
+}
+.second{
+    width:1120px ;
+    height:550pxx;
+}
+.second .first img{
+    width:650px;
+    margin: 50px 0px 50px 0px;
+    height: 550px;
+}
+.second .sec img{
+    width:500px;
+    margin: -90px 0 0 200px;
+    height:850px;
+}
+.second .sec img:nth-child(2){
+    width:200px;
+    margin: -1200px 0 0 70px;
+    height:200px;
+}
+.second a{
+    width:auto;
+    height:auto;
+    font-size:20px ;
+    text-decoration: none;
+    margin: -650px 0 0 680px;
+}
+.second h2{
+    width:auto;
+    font-size:40px ;
+    margin: -600px 0 0 680px;
+}
+.second p{
+    width:auto;
+    margin: -490px 0 0 680px;
+}
+.second a:last-child{
+    height:50px;
+    width: 150px;
+    border-radius: 0%;
+    background:#3B5998;
+    margin: -300px 0 0 690px;
+}
+.third{
+    width:100%;
+    height:950px;
+    margin: -100px 0 0 0;
+    background:#EDF0F6;
+}
+.third a{
+    width:auto;
+    text-decoration: none;
+    margin: 30px 0 0 0 ;
+}
+.card img{
+    width:150px;
+    height:150px;
+    margin:auto;
+}
+.card{
+    margin: 0 0 20px 0;
+}
+.card h5{
+    font-weight: bold;
+    text-align: center;
+    border-bottom: solid 8px #BEC8DD;
+}
+.card p{
+    font-size:13px;
+}
+.card button{
+    border-radius: 0%;
+    margin:0 0 0 60px;
+}
+.fourth{
+    width:100%;
+    height:600px;
+    background:#3B5998;
+}
+.fourth h3{
+    color: white;
+    font-size:35px;
+    font-weight: bold;
+    margin: 160px 0 0 -10px;
+}
+.fourth p{
+    color: white;
+    margin: 20px 0 0 -10px;
+}
+.fourth img{
+    width:500px ;
+    height:500px ;
+    margin:50px;
+}
+.fifth a{
+    width: auto;
+    text-decoration: none;
+    margin: 30px 0 0 20px;
+}
+.fifth h1{
+    font-weight: bold;
+    margin:0 0 0 20px;
+}
+.fifth .card{
+    width:200px;
+    height:200px;
+    margin:5px 20px;
+    box-shadow: 0px 0px 10px #0000002B;
+}
+.fifth h4{
+    font-weight: bold;
+    font-size:13px;
+    text-align: center;
+}
+.fifth img:last-child{
+    width: 100%;
+}
+.six{
+    width:100%;
+    height:600px;
+    background:#EDF0F6;
+}
+.six a{
+    width: auto;
+    text-decoration: none;
+    margin: 40px 0 0 900px;
+}
+.six h1{
+    width: auto;
+    font-weight: bold;
+    margin:0 0 60px 900px;
+}
+.men{
+    width:100%;
+    height: 250px;
+    background:#3B5998;
+}
+.men img{
+    width: 500px;
+    height: 500px;
+    margin: -95px 0 0 40px;
+}
+.men h1{
+    color:white;
+    margin: 50px 0 0 -120px;
+}
+.men p{
+    color: white;
+    margin: 0 0 0 -120px;
+}
+.six img:nth-child(3){
+    margin: -160px 0 0 430px;
+}
+.six img:nth-child(4){
+    margin: -380px 0 0 650px;
+}
+.six img:nth-child(5){
+    margin: -430px 0 0 760px;
+}
+.seven{
+    width:100%;
+    height:250px;
+    background:white;
+}
+.seven img{
+    width: 150px;
+    margin:60px 0px;
+    height: 150px;
+    background:#EDF0F6;
+}
+.eight{
+    width:100%;
+    height:350px;
+    background:#222222;
+}
+.eight img{
+    width:200px ;
+    height:80px ;
+    margin: 20px 0 30px 0;
+}
+.eight p{
+    font-size:14px;
+    color: white;
+}
+.eight h5{
+    margin: 40px 0 20px 25px;
+    text-align: center;
+    width:145px;
+    height: 30px;
+    background: #666666;
+    border: solid 2px #666666;
+    border-radius: 10px;
+    color: white;
+}
+.eight .foot2 a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    line-height:35px;
+}
+.eight .foot3 a{
+    margin: 0 0 0 25px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+.eight .foot4 a{
+    margin: 0 0 0 25px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+.footer{
+    width: 100%;
+    height:40px ;
+    margin: 25px 0 0 0;
+    background:black;
+}
+.footer p{
+    width: auto;
+    color:white;
+    padding:8px;
+}
+.footer a{
+    width:30px;
+    color: white;
+    font-size: 25px;
+    margin:-50px 0 0 1000px;
+}
+.footer a:last-child{
+    width:30px;
+    color: white;
+    font-size: 25px;
+    margin:-50px 0 0 1050px;
+}
